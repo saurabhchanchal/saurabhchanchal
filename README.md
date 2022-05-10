@@ -15,6 +15,8 @@
  
 - portfolio link   https://saurabha-portfolio.vercel.app
 
+-Resume link   https://docs.google.com/document/d/1VDEBM8dvTniA-jPxPpAUAdfCrNQiEpiz82gcLUPfPEo/edit?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saurabha rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabha rai" height="30" width="40" /></a>
