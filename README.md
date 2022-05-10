@@ -15,7 +15,8 @@
  
 - portfolio link   https://saurabha-portfolio.vercel.app
 
--Resume link   https://docs.google.com/document/d/1VDEBM8dvTniA-jPxPpAUAdfCrNQiEpiz82gcLUPfPEo/edit?usp=sharing
+- Resume link   https://docs.google.com/document/d/1VDEBM8dvTniA-jPxPpAUAdfCrNQiEpiz82gcLUPfPEo/edit?usp=sharing
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
