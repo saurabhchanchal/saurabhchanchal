@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **saurabh100rab69@gmail.com**
  
-- portfolio link   https://saurabha-portfolio.vercel.app
+- portfolio link   https://saurabhchanchal.github.io/
 
-- Resume link   https://docs.google.com/document/d/1VDEBM8dvTniA-jPxPpAUAdfCrNQiEpiz82gcLUPfPEo/edit?usp=sharing
+- Resume link   https://drive.google.com/file/d/1wYtpPLLKPw1hkELzem2ya1aqSs69-RDv/view?usp=share_link
 
 
 <h3 align="left">Connect with me:</h3>
